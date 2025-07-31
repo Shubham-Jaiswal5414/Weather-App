@@ -105,8 +105,11 @@ cloud-high/
 
 **Shubham Jaiswal**
 
-> Feel free to connect via
-> [email]=jaiswal29082003@gmail.com
+## 📬 Contact
+
+Feel free to reach out with any questions or collaboration opportunities!
+
+📧 [jaiswal29082003@gmail.com](mailto:jaiswal29082003@gmail.com)
 
 ---
 
