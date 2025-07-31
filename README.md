@@ -1,8 +1,11 @@
-# ☁️ Cloud High
+# ☁️ Weather Application
 
 A clean and responsive weather application built using **React** that allows users to search for real-time weather data by city name. It fetches accurate weather information using the **OpenWeatherMap API** and displays it in a user-friendly interface with animated icons.
 
 ---
+## 🚀 Live Demo
+
+Check out the deployed app here: [Live Demo](https://weather-application-shubham-jaiswal.netlify.app/)
 
 ## 🚀 Features
 
