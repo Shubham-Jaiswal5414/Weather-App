@@ -18,13 +18,8 @@ A clean and responsive weather application built using **React** that allows use
 
 - ⚡ Debounced search for performance
 
----
 
-## 📸 Screenshots
 
-> _(screenshots)_
-
----
 
 ## 🛠️ Technologies Used
 
@@ -110,7 +105,9 @@ cloud-high/
 
 **Shubham Jaiswal**
 
-> Feel free to connect via [LinkedIn](https://www.linkedin.com/in/shubham-jaiswal) or email.
+> Feel free to connect via
+>  [LinkedIn](https://www.linkedin.com/in/shubham-jaiswal).
+>  [email](jaiswal29082003@gmail.com)
 
 ---
 
