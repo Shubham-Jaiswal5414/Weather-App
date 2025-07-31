@@ -94,7 +94,6 @@ cloud-high/
 │ ├── forcast.js
 │ ├── currentLocation.js
 │ └── apiKeys.js
-├── .env
 └── README.md
 
 ```
