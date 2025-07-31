@@ -102,18 +102,14 @@ cloud-high/
 ```
 
 ---
-
 ## 🧑‍💻 Developer
 
 **Shubham Jaiswal**
 
-## 📬 Contact
+- 🔗 LinkedIn: [Shubham Jaiswal](https://www.linkedin.com/in/shubham-jaiswal-894613362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💼 GitHub: [@SHUBHAM-JAISWAL5414](https://github.com/SHUBHAM-JAISWAL5414)
+- 📧 Email: jaiswal29082003@gmail.com
 
-Feel free to reach out with any questions or collaboration opportunities!
-
-📧 [jaiswal29082003@gmail.com](mailto:jaiswal29082003@gmail.com)
-
----
 
 ## 📝 License
 
