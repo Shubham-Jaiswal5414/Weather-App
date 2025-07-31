@@ -106,7 +106,7 @@ cloud-high/
 **Shubham Jaiswal**
 
 > Feel free to connect via
->  email=jaiswal29082003@gmail.com
+> [email]=jaiswal29082003@gmail.com
 
 ---
 
