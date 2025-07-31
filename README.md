@@ -106,7 +106,6 @@ cloud-high/
 **Shubham Jaiswal**
 
 > Feel free to connect via
->  [LinkedIn](https://www.linkedin.com/in/shubham-jaiswal).
 >  [email](jaiswal29082003@gmail.com)
 
 ---
